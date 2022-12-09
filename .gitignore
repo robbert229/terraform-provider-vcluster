@@ -15,3 +15,5 @@
 # vendor/
 
 terraform-provider-vcluster
+
+docs
